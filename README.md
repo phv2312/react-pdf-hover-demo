@@ -5,7 +5,7 @@ This is a small React app for learning how to show and work with PDF files.
 Move your mouse over a field. The app will open the correct PDF page and show a
 colored area around the matching text.
 
-<img width="1200" height="800" alt="Screenshot 2026-09-11 at 21 18 16" src="https://github.com/user-attachments/assets/86d655ad-244f-40ca-b574-fe7d8d42d23b" />
+<img width="1200" height="700" alt="Screenshot 2026-09-11 at 21 18 16" src="https://github.com/user-attachments/assets/86d655ad-244f-40ca-b574-fe7d8d42d23b" />
 
 ## What you can do
 
